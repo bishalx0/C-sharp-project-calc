@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{3D451ED8-9F5F-414A-95D6-412633E7856B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCalc/Form1.Designer.cs">
+    <Files>
+      <File FileName="MyCalc/Program.cs" Line="13" Column="3" />
+      <File FileName="MyCalc/Form1.cs" Line="165" Column="18" />
+      <File FileName="MyCalc/Form1.Designer.cs" Line="190" Column="16" />
+      <File FileName="MyCalc/Form1.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyCalc" expanded="True">
+            <Node name="MyCalc" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" expanded="True" />
+                <Node name="Settings.settings" expanded="True" />
+              </Node>
+              <Node name="Form1.cs" expanded="True">
+                <Node name="Form1.Designer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
